@@ -1,0 +1,20 @@
+[
+  {
+    "coffee": "4",
+    "redbull": "2",
+    "whiskey": "4",
+    "tea": "3"
+  },
+  {
+    "coffee": "5",
+    "redbull": "10",
+    "whiskey": "15",
+    "tea": "7"
+  },
+  {
+    "coffee": "4",
+    "redbull": "3",
+    "whiskey": "22",
+    "tea": "1"
+  }
+]
